@@ -1,0 +1,10 @@
+<svg id="즐겨찾기" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53" height="41" viewBox="0 0 53 41">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.337" y1="-0.201" x2="0.214" y2="0.755" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4fc0e2"/>
+      <stop offset="1" stop-color="#6c5bf1"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_1516" data-name="Rectangle 1516" width="53" height="41" rx="20.5" fill="url(#linear-gradient)"/>
+  <path id="Path_157" data-name="Path 157" d="M11.895,0l3.717,7.434,8.178,1.189-5.947,5.8L19.18,22.6l-7.286-3.866L4.609,22.6l1.338-8.178L0,8.624,8.178,7.434Z" transform="translate(14.605 8.2)" fill="#fff"/>
+</svg>
